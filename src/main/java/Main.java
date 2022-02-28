@@ -47,7 +47,7 @@ public class Main {
                     executeChoice(choice);
                 }
             } catch (NumberFormatException e) {
-                System.out.println("Not a number! Enter another number option please!");
+                System.out.println("Not a number! Enter another number option please!\n");
 
             }
 
